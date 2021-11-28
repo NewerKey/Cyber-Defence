@@ -1,6 +1,6 @@
 # Cyber Defense
 
-This reppository is for study and reference purposes for the Cyber Defence learning path on TryHackMe
+This reppository is for study and reference purposes for the Cyber Defence learning path on TryHackMe. Working towards a career in cyber security analyst
 
 ## Introduction
 
